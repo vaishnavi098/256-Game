@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FileIO
+comment1.params=
+comment1.target=FileIO()
+comment1.text=\r\n\ Default\ constructor\ to\ initialize\ the\ object\ of\ the\ FileIO\ class\r\n\ \r\n
+comment2.params=newFileName
+comment2.target=FileIO(java.lang.String)
+comment2.text=\r\n\ Non\ default\ constructor\ to\ initialize\ the\ object\ of\ the\ FileIO\ class\r\n\ \r\n\ @param\ newFileName\ Name\ of\ the\ file\ to\ be\ read\ or\ written\ to\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFileName()
+comment3.text=\r\n\ Accessor\ Method\ to\ get\ the\ filename\r\n\ \r\n\ @return\ A\ single\ string\ which\ represents\ the\ file\ name\ being\ read\ or\ written\ to\r\n
+comment4.params=
+comment4.target=java.lang.String\ readFile()
+comment4.text=\r\n\ Method\ to\ read\ the\ contents\ from\ the\ file\r\n\ \r\n\ @return\ A\ entire\ contents\ of\ the\ file\ represented\ as\ a\ single\ string.\ New\ lines\ are\ delimited\ with\ a\ \\n\r\n
+comment5.params=newFileName
+comment5.target=void\ setfileName(java.lang.String)
+comment5.text=\r\n\ Mutator\ Method\ to\ set\ the\ filename\r\n\ \r\n\ @param\ newFileName\ Name\ of\ the\ file\ to\ be\ read\ or\ written\ to\r\n
+comment6.params=contents
+comment6.target=void\ writeFile(java.lang.String)
+comment6.text=\r\n\ Method\ to\ write\ the\ contents\ to\ a\ file\r\n\ \r\n\ @param\ contents\ Complete\ string\ which\ is\ to\ be\ written\ to\ the\ file.\ New\ lines\ need\ to\ be\ delimited\ with\ a\ \\n\r\n
+numComments=7

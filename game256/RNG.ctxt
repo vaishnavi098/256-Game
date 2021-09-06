@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RNG
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RNG\ here.\r\n\r\n\ @author\ (Sai\ Vaishnavi\ Alla)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RNG()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RNG\r\n
+comment2.params=newMaximumValue\ newMinimumValue
+comment2.target=RNG(int,\ int)
+comment2.text=\r\n\ Non\ Default\ constructer\ of\ class\ RNG\r\n\ @param\ newMaximumValue\ Integer\ which\ sets\ the\ maximum\ value\r\n\ @param\ newMinimumValue\ Integer\ which\ sets\ the\ minimum\ value\r\n\ \r\n
+comment3.params=
+comment3.target=int\ generateRandomNumber()
+comment3.text=\r\n\ random\ function\ generates\ a\ random\ value\ and\ is\ converted\ into\ int\ at\ the\ last\r\n\ @return\ A\ random\ integer\ \r\n
+numComments=4

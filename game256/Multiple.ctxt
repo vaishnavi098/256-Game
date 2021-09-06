@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Multiple
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Multiple\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Multiple()
+comment1.text=\r\n\ \ Default\ Constructor\ for\ objects\ of\ class\ Multiple\r\n
+comment2.params=newValue
+comment2.target=Multiple(int)
+comment2.text=\r\n\ Non-Default\ Constructor\ for\ objects\ of\ class\ Multiple\r\n\ @param\ newValue\ is\ the\ new\ integer\ value\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\nAccessor\ method\ for\ class\ Multiple\ \r\n@return\ the\ integer\ value\r\n
+comment4.params=newValue
+comment4.target=void\ setValue(int)
+comment4.text=\r\nMutator\ method\ for\ class\ Multiple\ \r\n@param\ newValue\ is\ the\ new\ integer\ value\r\n
+numComments=5
